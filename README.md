@@ -1,4 +1,4 @@
-# movie_night
+# Movie Night app
 
 
 
